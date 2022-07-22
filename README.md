@@ -15,7 +15,6 @@ This is a base image for Docker/Podman, which includes:
 - Ansible package installed via pip     
 - Terraform binary installed from https://www.terraform.io/downloads                      
 - Helm    
-- Kubectl vSphere        
 - etc         
 
 
